@@ -22,18 +22,20 @@ social: true # includes social icons at the bottom of the page
 ---
 
 ### Educational Background
+
 - 2018 Fellowship of Psychosomatic Medicine, Freiburg, Germany
 - 1995-1998 Residency, Psychiatry, Mashhad University of Medical Sciences, Mashhad, Iran
 - 1985-1993 Doctor of Medicine, Mashhad University of Medical Sciences, Mashhad, Iran
 - 1985 High school diploma
 
 ### Research Interests
+
 - Mood Disorders
-- Gender Dysphoria 
+- Gender Dysphoria
 - Substance User Disorder (Addiction)
 - Psychosomatic Medicine
-- Psychoneuroimmunology 
-- Sleep Disorders 
+- Psychoneuroimmunology
+- Sleep Disorders
 
 <!-- ### Awards/Honors
 - 2005 Gold medal of 2005 in internal football championship of MUMS

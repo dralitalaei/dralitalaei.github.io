@@ -2,7 +2,7 @@
 layout: page
 permalink: /appointments/
 title: Appointments
-description: 
+description:
 nav: true
 nav_order: 2
 ---
@@ -22,16 +22,16 @@ nav_order: 2
 - 2015-Present, Founder and Chairman of the Board of “Khorasan Association for Transgenders Support” NGO, Iran
 - 2007-Present, Head and lecturer of the Education Center for Methadone Maintenance Therapy clinics for Iranian physicians, - Mashhad University of Medical Sciences, Iran
 - 2003-Present, A referee of Research Committee of Mashhad University of Medical Sciences, Iran
-- 1993-Present, Member of Iranian Medical Council 
-- 1998-Present, Member of Iranian Psychiatric Association 
+- 1993-Present, Member of Iranian Medical Council
+- 1998-Present, Member of Iranian Psychiatric Association
 - 2012, Member of Examination Committee for Psychiatry Preboard of Iranian Ministry of Health and Medical Education
 - 2003-2006, Member of Publication Committee of Mashhad University of Medical Sciences, Iran
-- 2014-Present, Member of University Audit Board of Mashhad University of Medical Sciences, Iran 
-- 2015-Present, Member of University Scholarship Council of Mashhad University of Medical Sciences, Iran 
+- 2014-Present, Member of University Audit Board of Mashhad University of Medical Sciences, Iran
+- 2015-Present, Member of University Scholarship Council of Mashhad University of Medical Sciences, Iran
 - 2010-2014, Member of Research Committee of Iranian Drug Control Headquarters
 - 2012, Member of Strategy Council and Think Tank of Islamic Republic of Iran Broadcasting (IRIB), Khorasan Razavi Branch
-- 2004-Present, Member of Ibn-e-Sina Hospital Management Council, Mashhad University of Medical Sciences, Iran 
-- 2014-Present, Member of Charity Council of Ibn-e-Sina Psychiatry Hospital, Mashhad, Iran 
+- 2004-Present, Member of Ibn-e-Sina Hospital Management Council, Mashhad University of Medical Sciences, Iran
+- 2014-Present, Member of Charity Council of Ibn-e-Sina Psychiatry Hospital, Mashhad, Iran
 - 2003-2007 Head of the ‘ECT-TMS ward’ of the Ibn-e-Sina Psychiatric Educational Hospital of Mashhad University of Medical - Sciences, Iran
 - 2003-2006, Head of the ‘Methadone Maintenance Therapy clinic’ of the Ibn-e-Sina Psychiatric Educational Hospital of Mashhad - University of Medical Sciences, Iran
 - 2003-2005, Editor of Assistants Programs of Department of Psychiatry, Mashhad University of Medical Sciences, Iran
