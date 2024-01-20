@@ -2,21 +2,23 @@
 layout: about
 title: About
 permalink: /
-description: Professor of Psychiatry, Director of Psychiatry and Behavioral Sciences Research Center
+subtitle: Professor of Psychiatry, Director of Psychiatry and Behavioral Sciences Research Center
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
+  image_circular: false # crops the image to make it circular
+  more_info: >
     <p>Psychiatry Department</p>
     <p>Mashhad University of Medical Sciences</p>
     <p>Mashhad, Iran</p>
     <p>+98 51 37112540</p>
     <p>talaeia[at]mums.ac.ir</p>
 
-news: false  # includes a list of news items
+news: false # includes a list of news items
+latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 ### Educational Background
