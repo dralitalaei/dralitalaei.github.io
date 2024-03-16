@@ -7,6 +7,7 @@ nav: true
 nav_order: 2
 ---
 
+- 2019 Mar.-Present, Member of “**Iranian National Examination and Evaluation Board of Psychiatry**” of Ministry of Health and Medical Education, Iran
 - 2018 (Apr)—2020 (Dec), Dean of the School of Medicine of Mashhad University of Medical Sciences, Iran
 - 2009-Present, Head of Psychiatry and Behavioral Sciences Research Center (PBSRC) of Mashhad University of Medical Sciences, Iran
 - 2015-Present, Head of MUMS Transgender Studies Center, Mashhad University of Medical Sciences, Iran
