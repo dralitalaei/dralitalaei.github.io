@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Professor of Psychiatry, Director of Psychiatry and Behavioral Sciences Research Center
+subtitle: Professor of Psychiatry
 
 profile:
   align: right
